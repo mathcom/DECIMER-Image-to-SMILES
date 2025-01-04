@@ -1,0 +1,17 @@
+name: DECIMERv1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.8
+  - tensorflow-gpu=2.14
+  - keras-preprocessing
+  - scikit-learn=1.6
+  - matplotlib
+  - seaborn
+  - pillow
+  - deepsmiles=1.0.1
+  - jupyter
+  - rdkit=2024.09.2
+  - tqdm
+  - nvidia::cuda-nvcc=12.4.131
