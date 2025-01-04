@@ -1,3 +1,14 @@
+Data/raw
+Data/training_data_original
+Data/training_data_rdkit
+Data/training_data_randepict
+Data/training_data_repaint
+Data/validation_data
+Data/DataGeneration.ipynb
+ckpt
+Trained_Models/Trained_Models.zip
+Trained_Models/Trained_Models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
